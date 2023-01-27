@@ -1,0 +1,4 @@
+**/venv
+.idea
+src/.ipynb_checkpoints/*
+datasets/EAG_FIN_NATURE_02012023114623310.csv
